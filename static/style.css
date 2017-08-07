@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    width: 1000px;
+    margin: 0 auto;
+}
+form {
+    display: inline-block;
+    vertical-align: top;
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    text-align: center;
+}
+.activity{
+    height: 100px;
+    overflow: scroll;
+}
